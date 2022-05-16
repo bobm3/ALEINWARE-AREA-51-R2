@@ -1,6 +1,6 @@
 GET YOUR ALIENWARE COMMNAND CENTER LIGHTS WORKING ON A NON-ALIENWARE MOTHERBOARE
 
-START WITH THE FORUM THREAD BELOW (Copy & Paste)
+START WITH THE FORUM THREAD BELOW
 
 https://www.alienowners.com/threads/how-to-install-command-center-for-a-non-alienware-motherboard.7119/
 

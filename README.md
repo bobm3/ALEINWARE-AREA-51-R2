@@ -8,6 +8,10 @@ DOWNLOAD COMMAND CENTTER SEE LINK BELOW:
 
 https://www.dell.com/support/home/en-us/product-support/servicetag/0-b2VINjRUZFBMSjYvQUkyVGo0c3NGdz090/drivers
 
+SEARCH DRIVERS FOR: Alienware Command Center for Desktops
+
+DOWNLOAD DRIVER  Alienware Command Center for Desktops
+
 HAVE REGEDIT FILES ON DESKTOP.
 
 OPEN REGEDIT.

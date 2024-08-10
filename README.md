@@ -51,7 +51,8 @@ https://www.alienowners.com/threads/how-to-install-command-center-for-a-non-alie
 
 INSTALL COMMAND CENTER (DO NOT INSTALL THE NEWER VERSION):
 
-https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=0n36d&oscode=wt64a&productcode=alienware-area51-r2
+https://www.dell.com/support/home/en-us/product-support/servicetag/0-b2VINjRUZFBMSjYvQUkyVGo0c3NGdz090/drivers
+
 
 READ THIS FOR LIGHT ISSUES:
 
